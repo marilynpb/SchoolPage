@@ -30,6 +30,15 @@ p{
   font-size: 20px;
 }
 
+h2, h3{
+  color: #403ec2;
+  font-weight: bold;
+}
+
+.title-about{
+  color: #403ec2!important;
+}
+
 .section-title h2 {
   text-shadow: 1px 1px 2px #4444;
 }
@@ -48,10 +57,23 @@ p{
   font-size: 80px;
   margin-bottom: 30px;
   font-weight: bolder;
-  color: rgb(251, 249, 249);
+  color: rgb(251, 250, 249);
   font-family: 'Sans lighter', sans-serif;
 }
 
+.span-hero{
+  color: #403ec2;
+}
+
+.btn-bg{
+  background-color: #403ec2;
+  color: white;
+}
+
+.btn-bg:hover{
+  color: white;
+  font-weight: bold;
+}
 
 /*****************************
 
